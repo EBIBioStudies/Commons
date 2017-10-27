@@ -7,3 +7,5 @@
 /buildlib
 /.idea/
 /commons.iml
+/.gradle/
+/build/
